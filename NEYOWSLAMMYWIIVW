@@ -265,7 +265,7 @@ RunService:BindToRenderStep("AimLock", 0, function()
     
     
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slammy1/cattoware/main/my%20script%20libary"))() 
-    local Window = Library:CreateWindow("Power.Lua", Vector2.new(492, 598), Enum.KeyCode.RightShift) 
+    local Window = Library:CreateWindow("Always.Win", Vector2.new(492, 598), Enum.KeyCode.RightShift) 
     local AimingTab = Window:CreateTab("Main") 
     local Misc = Window:CreateTab("Misc") 
     local Visuals = Window:CreateTab("Visuals") 
