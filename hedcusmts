@@ -1263,7 +1263,7 @@ fun:AddButton("Add Everyone", function(IhateGayPeople)
 end)
 
 
-end)
+
 
 ESP:AddToggle("Enable ESP", false, function(Value)
     if getgenv().esp_loaded == false and Value == true then
